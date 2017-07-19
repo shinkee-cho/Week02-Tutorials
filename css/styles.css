@@ -1,2 +1,2 @@
 body { background: #000080; }    /* navy-blue : #000080 */
-img  { height: 300px; }
+.dogs img  { float:left; height: 300px; }
