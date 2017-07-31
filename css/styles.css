@@ -1,2 +1,17 @@
-body { background: #000080; }    /* navy-blue : #000080 */
-.dogs img  { float:left; height: 300px; }
+html, body {
+    background: #000080;    /* navy-blue : #000080 */
+}
+
+
+div.dogs { display: inline-block; }
+div.dogs img {
+    height: 300px;
+    float:left;
+}
+
+iframe { display:block; }
+
+button {
+    padding:5px;
+    font-size:20px;
+}
